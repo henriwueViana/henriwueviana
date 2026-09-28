@@ -74,7 +74,7 @@ Projeto de jogo narrativo desenvolvido com **Ren'Py**, inspirado na estética do
 ### 📫 Contato
 
 <p>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:alexandreh4564@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
@@ -92,7 +92,7 @@ Projeto de jogo narrativo desenvolvido com **Ren'Py**, inspirado na estética do
       alt="LinkedIn"
     />
   </a>
-  <a href="https://github.com/SEU_USERNAME">
+  <a href="https://github.com/henriwueViana">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
