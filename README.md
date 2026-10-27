@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Henriwue
-
+#ATUALIZANDO
 **`Desenvolvedor Full Stack`**
 
 Me chamo **Henrique Viana**, tenho 21 anos e sou natural do Paraná. Concluí o ensino médio no **IFPR**, junto ao curso técnico em Informática. Atualmente, estou cursando **Bacharelado em Engenharia de Software na UniCesumar**.
@@ -35,11 +35,7 @@ Player de música desenvolvido com **React + TypeScript**, com reprodução de m
 
 #### 🏪 Kitcho SaaS
 
-Sistema SaaS desenvolvido com **Laravel + PHP + PostgreSQL**, voltado para a gestão de cardápios e pedidos de pequenos estabelecimentos.
-
-#### 🎮 Aquilo
-
-Projeto de jogo narrativo desenvolvido com **Ren'Py**, inspirado na estética dos computadores dos anos 2000 e focado em investigação e terror psicológico.
+Sistema SaaS desenvolvido com **Laravel + PHP + PostgreSQL**, voltado para a gestão de cardápios e pedidos de pequenos estabelecimentos
 
 ---
 
